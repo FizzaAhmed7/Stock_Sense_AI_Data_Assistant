@@ -47,9 +47,6 @@ A complete **Stock Market Data Science System** with:
 
 ---
 
-# 🖼️ Screenshots
-
-> ⚠️ Add your actual screenshots inside the `/assets` folder.
 
 ## 🔍 Stock Explorer
 
