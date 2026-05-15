@@ -161,13 +161,7 @@ stock-ds-project/
 
 # 🔗 Links
 
-- 🌐 Live Demo: [Add Live Demo Link]
-- 💻 GitHub Repo: [Add GitHub Repository Link]
+- 🌐 Live Demo: www.linkedin.com/in/fizza-ahmed
 
 ---
 
-# ❤️ Credits
-
-Made with ❤️ using **Streamlit + Machine Learning + AI**
-
----
