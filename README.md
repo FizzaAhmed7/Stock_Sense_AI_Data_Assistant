@@ -1,29 +1,3 @@
-<!DOCTYPE html><html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Stock DS Project - Interactive README</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"><style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: #0f172a;
-        color: #e2e8f0;
-        display: flex;
-    }
-
-    /* Sidebar */
-    .sidebar {
-        width: 260px;
-        background: #111827;
-        height: 100vh;
-        position: fixed;
-        padding: 20px;
-    }
-
-    .sidebar h2 {
-        color: #38bdf8;
-        font-size: 18px;
-        margin-bottom: 20px;
     }
 
     .sidebar a {
