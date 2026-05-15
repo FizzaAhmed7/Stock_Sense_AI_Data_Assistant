@@ -1,4 +1,4 @@
-# 📊 Stock Data Science Project
+# 📊 Stock Sense AI Assistant
 
 Interactive **ML + Analytics Dashboard** built with **Streamlit** for stock market analysis, prediction, portfolio optimization, and sentiment analysis.
 
