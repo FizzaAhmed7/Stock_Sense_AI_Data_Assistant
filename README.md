@@ -1,4 +1,4 @@
-# 📊 Stock Sense AI Assistant
+# 📊 Stock Sense AI Data Assistant
 
 Interactive **ML + Analytics Dashboard** built with **Streamlit** for stock market analysis, prediction, portfolio optimization, and sentiment analysis.
 
@@ -78,7 +78,7 @@ A complete **Stock Market Data Science System** with:
 
 ---
 
-# 🤖 Stock Sense AI Assistant
+# 🤖 Stock Sense AI Data Assistant
 
 The project includes a simple AI-powered assistant that can answer questions related to:
 
